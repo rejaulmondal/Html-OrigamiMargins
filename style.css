@@ -1,0 +1,55 @@
+h1{color:red;
+  border: solid;}
+
+h1{
+  background-color: #ff8989;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.box1{
+  background-color: #fc7efa;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.box2{
+  background-color: #a86bff;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.box3{
+  background-color: #8294ff;
+  display:flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.box4{
+  background-color: #75faff;
+  display:flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.box5{
+  background-color: #a1ff84;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.superBox1{
+  display:flex;
+  justify-content: center;
+}
+
+.superBox2{
+  display:flex;
+  justify-content: center;
+}
